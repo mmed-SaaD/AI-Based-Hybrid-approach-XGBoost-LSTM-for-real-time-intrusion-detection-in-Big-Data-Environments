@@ -171,10 +171,5 @@ For questions or collaboration:
 - 📧 **Email**: bazourhi.med.saad@gmail.com
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/mohamed-saad-bazourhi-3b8445235/
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ⭐ **If you find this project useful, please consider giving it a star!**
