@@ -168,9 +168,8 @@ python real_time_spark_ids.py
 
 For questions or collaboration:
 
-- 📧 **Email**: your-email@example.com
-- 🔗 **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)
-- 💻 **GitHub**: [Your GitHub](https://github.com/yourusername)
+- 📧 **Email**: bazourhi.med.saad@gmail.com
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/mohamed-saad-bazourhi-3b8445235/
 
 ## 📄 License
 
